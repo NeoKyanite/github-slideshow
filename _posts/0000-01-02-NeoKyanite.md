@@ -2,7 +2,7 @@
 
 ---
 
-layout: slide
+The sky is blue, except when it's not.
 
 title: "Welcome to our second slide!"
 
